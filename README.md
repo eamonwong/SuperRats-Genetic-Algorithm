@@ -98,7 +98,7 @@ Genetic algorithms mimic natural evolution to solve optimisation problems. This 
 - Convergence Studies: Analyse how quickly populations adapt to goals
 - Diversity Metrics: Measure genetic variation throughout evolution
 
-<img width="996" height="689" alt="Screenshot 2025-09-13 at 10 43 45" src="https://github.com/user-attachments/assets/08831327-cca5-4cef-a637-5e80683cd9e0" />
+<img width="996" height="689" alt="Screenshot 2025-09-13 at 10 43 45" src="https://github.com/user-attachments/assets/c0918c68-9751-459f-b531-4337aa9f0c76" />
 
 
 https://github.com/user-attachments/assets/b2453293-aad2-43dc-9d8f-e87a12abd50f
