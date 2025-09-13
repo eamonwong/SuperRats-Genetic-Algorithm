@@ -81,7 +81,7 @@ Genetic algorithms mimic natural evolution to solve optimisation problems. This 
 
 # Performance Notes ⚡
 ## Expected Results
-- **Generations to Goal**: ~100-200 generations with optimized parameters
+- **Generations to Goal**: ~100-200 generations with optimised parameters
 - **Time to Success**: 3-8 minutes of simulation time at default speed
 - **Visual Feedback**: Clear progression visible in both graph and rat sizes
 
@@ -98,7 +98,7 @@ Genetic algorithms mimic natural evolution to solve optimisation problems. This 
 - Convergence Studies: Analyse how quickly populations adapt to goals
 - Diversity Metrics: Measure genetic variation throughout evolution
 
-  <img width="1002" height="692" alt="Screenshot 2025-09-13 at 10 39 18" src="https://github.com/user-attachments/assets/140f3e59-aede-41bf-979d-74e7b3f32932" />
+<img width="996" height="689" alt="Screenshot 2025-09-13 at 10 43 45" src="https://github.com/user-attachments/assets/08831327-cca5-4cef-a637-5e80683cd9e0" />
 
 
 https://github.com/user-attachments/assets/b2453293-aad2-43dc-9d8f-e87a12abd50f
