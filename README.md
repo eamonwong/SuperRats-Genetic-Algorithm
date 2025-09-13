@@ -95,7 +95,7 @@ Genetic algorithms mimic natural evolution to solve optimisation problems. This 
 
 # Research Applications
 - Parameter Optimisation: Find ideal mutation rates and selection strategies
-- Convergence Studies: Analyze how quickly populations adapt to goals
+- Convergence Studies: Analyse how quickly populations adapt to goals
 - Diversity Metrics: Measure genetic variation throughout evolution
 
   <img width="1002" height="692" alt="Screenshot 2025-09-13 at 10 39 18" src="https://github.com/user-attachments/assets/140f3e59-aede-41bf-979d-74e7b3f32932" />
